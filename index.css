@@ -1,0 +1,29 @@
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+
+.image-container {
+    font-family: 'Chelsea Market';
+    background-image: url("https://cdn.aarp.net/content/dam/aarp/travel/destinations/2020/09/1140-yosemite-hero.imgcache.rev53b5073f17c63326332c9b737074d62b.jpg");
+    background-size: cover;
+    position: relative;
+    height: 300px;
+  }
+
+  .text {
+    background-color: white;
+    color: black;
+    font-size: 5vw; 
+    font-weight: bold;
+    margin: 0 auto; 
+    padding: 10px;
+    width: 50%;
+    text-align: center; 
+    position: absolute; 
+    top: 50%;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    mix-blend-mode: screen; 
+  }
