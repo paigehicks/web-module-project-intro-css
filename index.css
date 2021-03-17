@@ -1,0 +1,120 @@
+* {
+    margin: 10px;
+    padding: 10px;
+}
+
+button:hover {
+    text-decoration: underline;
+}
+
+#plan {
+    background-color: #FF764E;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    margin-left: 150px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 60px;
+}
+
+#learn {
+    background-color: #5ED3EB;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 60px;
+}
+
+#involved {
+    background-color: #FFCD69;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 15px;
+    border-radius: 15px;
+    border: none;
+    font-weight: bold;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    height: 60px;
+}
+
+
+.header {
+    font-family: 'Chelsea Market', cursive !important;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#header_img {
+    display: inline-block;
+    float: left;
+    border-radius: 50%;
+    height: 15rem;
+    width: 15rem;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+
+.main {
+    text-align: center;
+    background-color: #DDB9A3;
+    font-family: 'Roboto Mono', monospace;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+b {
+    font-weight: bolder;
+}
+
+.middle {
+    padding: 50px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+#fire {
+    height: 15%;
+    width: 15%;
+}
+
+#camp {
+    height: 15%;
+    width: 15%;
+}
+
+#footer_img {
+    display: block;
+    width: 97%;
+    height: 300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.footer {
+    background-color: #F9E7DC;
+}
